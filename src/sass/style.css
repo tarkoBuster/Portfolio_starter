@@ -318,7 +318,7 @@ template {
 .promo {
   min-height: 100vh;
   position: relative;
-  background: url("../img/main_bg.jpg") no-repeat 50%/cover;
+  background: url("../img/my_bg.JPG") no-repeat 60%/cover;
   padding-top: 205px;
 }
 .promo__title {
@@ -1159,7 +1159,7 @@ template {
     padding-left: 55px;
   }
   .promo {
-    background: url("../img/main_bg.jpg") no-repeat 57%/cover;
+    background: url("../img/my_bg.JPG") no-repeat 57%/cover;
   }
   .promo__btns {
     margin-top: 30px;
